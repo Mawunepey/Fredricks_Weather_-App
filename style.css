@@ -1,0 +1,112 @@
+
+
+
+*{
+    text-decoration: none;
+    text-transform: capitalize none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #333;
+    color: white;
+    
+}
+
+header a{
+    padding-left: 20px;
+
+    
+}
+nav {
+    list-style: none;
+    padding: 20px;
+    
+    }
+
+
+nav a{
+    color: white;
+    text-decoration: none;
+    justify-content: space-around;
+    display: flex none; 
+}
+   
+    
+.welcome{
+    text-align: left;
+    margin: 20px;
+    padding-top: 10rem;
+}
+
+.img{
+    width: 3%;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    padding-right: 50px;
+    border-radius: 0px;
+    padding-bottom: 20px;
+
+}
+
+
+   
+.product-list{
+    width: 80%;
+    margin: 0 auto;
+   
+}
+.product-list table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.product-list th{
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: justify;
+    background-color: rgb(238, 245, 245);
+}
+
+.product-list td{
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: justify;
+}
+.sign-in input{
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    
+
+}
+.sign-in{
+    text-align: center;
+    margin: 20px 0;
+    
+}
+
+.sign-in form{
+    display: inline-block;
+    text-align: left;
+    text-align: center;
+}
+.sign-in button{
+    padding: 10px;
+    width: 100%;
+    color: rgb(202, 206, 202);
+    background-color: green;
+    
+}
+footer{
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}

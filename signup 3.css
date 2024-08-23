@@ -1,0 +1,44 @@
+
+
+   
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    font-size: large;
+}
+
+
+
+ input{
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 30rem;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+button{
+    color: white;
+    background-color: green;
+    
+}
+.form{
+    text-align: center;
+    flex-direction: column;
+    display: flex; 
+   
+}
+sign up{
+    text-align: center;
+    margin: 20;
+   
+}
